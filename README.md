@@ -9,7 +9,7 @@
 - 🎓 M.Sc. Computer Science (Big Data Analytics) - Central University of Rajasthan
 - 🎓 B.Sc. Computer Science & Mathematics - Jamia Millia Islamia University
 - 💻 Focused on **Java**, **Spring Boot**, and **REST API** design
-- 🔧 Interested in **concurrency**, **system design**, and **backend architecture**
+- 🔧 Interested in **Concurrency**, **System Design**, and **Backend Architecture**
 - 🧠 I also share my LeetCode solutions ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)
 - 🤝 Open to collaborating on Backend, API, and Java-based projects
 - 📫 Reach me at: obaidajmi07@gmail.com
